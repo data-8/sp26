@@ -13,7 +13,7 @@
 # link overrides the default link to the lab page from the collection if 
 # you provided a slug or provides an external link
 labs:
-  - title: Introduction
+  - title: Introduction (Due 1/23)
     date: 2026-01-21
   - title: Table Operations (Due 1/30)
     date: 2026-01-26

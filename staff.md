@@ -9,7 +9,6 @@ nav_order: 4
 
 <p style="font-size:20px">This page is under construction.</p>
 
-<!--
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -66,4 +65,3 @@ nav_order: 4
 {{ staffer }}
 {% endfor %}
 {% endif %}
--->
