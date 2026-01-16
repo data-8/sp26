@@ -1,17 +1,12 @@
 ---
 layout: page 
-title: Calendar (Static)
-description: Lecture, Discussion and OH schedules
+title: 🏢 Weekly Calendar & OH
+description: The weekly event schedule.
 nav_order: 2
 ---
 
-# Calendar (Static)
-Use this calendar if you want a static version for your class. This works best if your class's schedule doesn't change from week to week and if you don't want to maintain a Google Calendar.
-
-## Directions
-To add events, go to `weekly.md` and include the name, start/end times, and location.
-
-To change colors of events, go to `schedule.scss` and look for the class `.schedule-event` followed by the name of the event (e.g. "Lecture" is found under `&.lecture`).
+# **Weekly Calendar & Office Hours**
+We use an [online sign-up system](https://oh.data8.org/) to help keep track of everyone. If some words are cutoff in the calendar below, you may need to zoom out to see the full information!
 
 {% for calendar in site.calendars %}
   {{ calendar }}

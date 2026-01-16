@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Staff
+title: 🧑‍🏫 Staff
 description: A listing of all the course staff members.
 nav_order: 4
 ---
 
-# Staff
+# **Staff**
 
-To learn how this page works, see the [documentation]({% link docs/collections/staff.md %}).
+<p style="font-size:20px">This page is under construction.</p>
 
+<!--
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -65,3 +66,4 @@ To learn how this page works, see the [documentation]({% link docs/collections/s
 {{ staffer }}
 {% endfor %}
 {% endif %}
+-->
