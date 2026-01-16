@@ -13,10 +13,23 @@
 # link overrides the default link to the lab page from the collection if 
 # you provided a slug or provides an external link
 labs:
-  - slug: lab01
-  - title: Lab 2
-    link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
-  - title: Lab 3
-  - skip: true
-  - title: Lab 4
-  - title: Lab 5
+  - title: Introduction
+    date: 2026-01-21
+  - title: Table Operations (Due 1/30)
+    date: 2026-01-26
+  - title: Data Types and Arrays (Due 2/6)
+    date: 2026-02-02
+  - title: Functions and Visualizations (Due 2/13)
+    date: 2026-02-09
+  - title: Simulations (Due 2/27)
+    date: 2026-02-23
+  - title: Examining the Therapeutic Touch (Due 3/6)
+    date: 2026-03-02
+  - title: Great British Bake Off (A/B Test) (Due 3/20)
+    date: 2026-03-16
+  - title: Normal Distribution and Variability of Sample Means (Due 4/3)
+    date: 2026-03-30
+  - title: Regression (Due 4/17)
+    date: 2026-04-13
+  - title: Conditional Probability (Due 5/1)
+    date: 2026-04-27

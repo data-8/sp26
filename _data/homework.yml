@@ -13,11 +13,29 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
-  - slug: hw01
-  - title: Homework 2
-    link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
-  - title: Homework 3
-  - skip: true
-  - title: Homework 4
-  - title: Homework 5
-  - title: Homework 6
+  - title: Causality and Expressions (Due 1/28)
+    date: 2026-01-23
+  - title: Arrays and Tables (Due 2/4)
+    date: 2026-01-30
+  - title: Table Manipulation and Visualization (Due 2/11)
+    date: 2026-02-06
+  - title: Functions, Tables, and Groups (Due 2/18)
+    date: 2026-02-13
+  - title: Chance, Empirical Probability Distribution (Due 2/25)
+    date: 2026-02-20
+  - title: Assessing Models and Testing Hypotheses (Due 3/4)
+    date: 2026-02-27
+  - title: Confidence Intervals (Due 4/1)
+    date: 2026-03-20
+  - title: Sample Sizes and Confidence Intervals (Due 4/8)
+    date: 2026-04-03
+  - title: Linear Regression (Due 4/15)
+    date: 2026-04-10
+  - title: Regression Inference (Due 4/22)
+    date: 2026-04-17
+  - title: Classification (Due 4/29)
+    date: 2026-04-24
+  - title: MLR (Due 5/6)
+    date: 2026-04-27
+  - title: Extra Credit (Due 5/6)
+    date: 2026-05-01

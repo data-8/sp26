@@ -13,10 +13,31 @@
 # link overrides the default link to the discussion page from the collection if 
 # you provided a slug or provides an external link
 discussions:
-  - title: Discussion 0
-    link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
-  - slug: disc01
-  - title: Discussion 2
-  - skip: true
-  - title: Discussion 3
-  - title: Discussion 4
+  - title: By the Numbers
+    date: 2026-01-21
+  - title: Intro to Tables & Causation
+    date: 2026-01-26
+  - title: Visualizations, Data Types, Extending Tables
+    date: 2026-02-02
+  - title: More Visualizations, Intro to Functions
+    date: 2026-02-09
+  - title: Table Methods, Conditionals & Iteration
+    date: 2026-02-16
+  - title: Chance & Models
+    date: 2026-02-23
+  - title: Assessing Models
+    date: 2026-03-02
+  - title: Midterm Review
+    date: 2026-03-09
+  - title: The Bootstrap
+    date: 2026-03-16
+  - title: The Central Limit Theorem
+    date: 2026-03-30
+  - title: Correlation & Regression
+    date: 2026-04-06
+  - title: Residuals
+    date: 2026-04-13
+  - title: Intervals for Predictions & kNN Classification
+    date: 2026-04-20
+  - title: MLR & Bayes
+    date: 2026-04-27
