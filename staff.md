@@ -7,61 +7,58 @@ nav_order: 4
 
 # **Staff**
 
-<p style="font-size:20px">This page is under construction.</p>
+Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-assistants), [Teaching Assistants](#teaching-assistants), [Tutors](#tutors)
+
 
 ## Instructors
-
+<div class="role flex">
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
+</div>
+
+
+## Head Teaching Assistants
+
+**Email [data8@berkeley.edu](mailto:data8@berkeley.edu) for all logistical and student support questions!**
+
 
 {% assign head_teaching_assistants = site.staffers | where: 'role', 'Head Teaching Assistant' %}
 {% assign num_head_teaching_assistants = head_teaching_assistants | size %}
 {% if num_head_teaching_assistants != 0 %}
-## Head Teaching Assistants
 
+<div class="role flex">
 {% for staffer in head_teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
+</div>
+
+
+## Teaching Assistants
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Teaching Assistants
 
+
+<div class="role flex">
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
+</div>
+
+## Tutors
 
 {% assign tutors = site.staffers | where: 'role', 'Tutor' %}
 {% assign num_tutors = tutors | size %}
 {% if num_tutors != 0 %}
-## Tutors
 
+<div class="role flex">
 {% for staffer in tutors %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
-
-{% assign readers = site.staffers | where: 'role', 'Reader' %}
-{% assign num_readers = readers | size %}
-{% if num_readers != 0 %}
-## Readers
-
-{% for staffer in readers %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
-
-{% assign academic_interns = site.staffers | where: 'role', 'Academic Intern' %}
-{% assign num_academic_interns = academic_interns | size %}
-{% if num_academic_interns != 0 %}
-## Academic Interns
-
-{% for staffer in academic_interns %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+</div>

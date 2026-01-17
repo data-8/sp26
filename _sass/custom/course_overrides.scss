@@ -85,6 +85,22 @@
   font-size: 0.8em !important;
 }
 
+// Responsive grid for staff page
+.staff-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: $sp-4;
+  margin-bottom: $sp-6;
+  
+  @media (min-width: 50rem) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  @media (min-width: 66.5rem) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
 .acknowledger {
   max-width: 500px !important;
   font-size: 0.8em !important;
