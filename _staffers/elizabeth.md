@@ -1,0 +1,14 @@
+---
+name: Elizabeth Gonzalez
+role: Tutor
+email: elizabeth.d.gonzo@berkeley.edu
+website: 
+photo: 
+pronouns: 
+office_hours: 
+team: 
+access_email: 
+access_dsp: 
+---
+
+Nice to meet you all, I'm a Sophomore majoring in Statistics/Psychology and minoring in Data Science. I like horror films, science fiction dystopian novels, and pickleball! 

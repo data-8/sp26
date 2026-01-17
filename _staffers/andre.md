@@ -1,0 +1,14 @@
+---
+name: Andre Lee
+role: Tutor
+email: andrelee@berkeley.edu
+website: 
+photo: 
+pronouns: he/him
+office_hours: 
+team: 
+access_email: 
+access_dsp: 
+---
+
+Hi! I’m a sophomore from San Francisco studying Data Science. In my free time, I enjoy playing sports, listening to music, and trying new places to eat!
