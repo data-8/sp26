@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: page #calendar_dynamic
 title: 🏢 Weekly Calendar & OH
 description: The weekly event schedule.
 nav_order: 2
