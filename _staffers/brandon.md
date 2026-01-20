@@ -3,7 +3,7 @@ name: Brandon Su
 role: Head Teaching Assistant
 email: brandonsu@berkeley.edu
 website: https://drive.google.com/drive/folders/1C5X-Dc_t4dzkDCZlxvKRXGflKuoWUG8y?usp=sharing
-photo: 
+photo: brandon.jpeg
 pronouns: he/him
 office_hours: 
 team: Course Director

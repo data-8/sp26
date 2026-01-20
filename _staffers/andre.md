@@ -3,7 +3,7 @@ name: Andre Lee
 role: Tutor
 email: andrelee@berkeley.edu
 website: 
-photo: 
+photo: andre.jpg
 pronouns: he/him
 office_hours: 
 team: 

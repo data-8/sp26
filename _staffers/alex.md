@@ -3,7 +3,7 @@ name: Alex Toohey
 role: Tutor
 email: alex_toohey@berkeley.edu
 website: 
-photo: 
+photo: alex.jpg
 pronouns: he/him
 office_hours: 
 team: 

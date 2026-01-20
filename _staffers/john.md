@@ -3,7 +3,7 @@ name: John Bragado
 role: Teaching Assistant
 email: johnbragado@berkeley.edu
 website: https://linktr.ee/johnbragado
-photo: 
+photo: john.jpg
 pronouns: he/him
 office_hours: 
 team: 

@@ -3,7 +3,7 @@ name: Soumyadeep Talukdar
 role: Tutor
 email: soumtalu@berkeley.edu
 website: 
-photo: 
+photo: soumyadeep.png
 pronouns: he/him
 office_hours: 
 team: 

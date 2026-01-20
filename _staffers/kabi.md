@@ -3,7 +3,7 @@ name: Kabilan Vaikunthan
 role: Tutor
 email: kabilanvaikunthan@berkeley.edu
 website: https://cubbylen.com/
-photo: 
+photo: kabi.jpg
 pronouns: he/him
 office_hours: 
 team: 

@@ -3,7 +3,7 @@ name: Chase Graham
 role: Tutor
 email: chase_graham@berkeley.edu
 website: 
-photo: 
+photo: chase.JPG
 pronouns: he/him
 office_hours: 
 team: 

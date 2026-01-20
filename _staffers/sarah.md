@@ -3,7 +3,7 @@ name: Sarah Zuo
 role: Teaching Assistant
 email: sarahzuo@berkeley.edu
 website: 
-photo: 
+photo: sarah.jpg
 pronouns: she/her
 office_hours: 
 team: 

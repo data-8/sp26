@@ -3,7 +3,7 @@ name: Dagny Streit
 role: Head Teaching Assistant
 email: dagnystreit@berkeley.edu
 website: 
-photo: 
+photo: dagny.png
 pronouns: she/her
 office_hours: 
 team: Course Director

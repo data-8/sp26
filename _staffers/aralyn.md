@@ -3,7 +3,7 @@ name: Aralyn Connolly
 role: Tutor
 email: aralyn_connolly@berkeley.edu
 website: 
-photo: 
+photo: aralyn.jpeg
 pronouns: she/her
 office_hours: 
 team: 

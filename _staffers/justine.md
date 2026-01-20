@@ -3,7 +3,7 @@ name: Justine Juillard
 role: Tutor
 email: j.juillard@berkeley.edu
 website: 
-photo: 
+photo: justine.jpg
 pronouns: 
 office_hours: 
 team: 

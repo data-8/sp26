@@ -3,7 +3,7 @@ name: Leo Zhang
 role: Tutor
 email: zhangleo@berkeley.edu
 website: 
-photo: 
+photo: leo.jpg
 pronouns: he/him
 office_hours: 
 team: 

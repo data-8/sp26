@@ -3,7 +3,7 @@ name: Avi Gupta
 role: Tutor
 email: avi_gupta@berkeley.edu
 website: 
-photo: 
+photo: avi.png
 pronouns: 
 office_hours: 
 team: 

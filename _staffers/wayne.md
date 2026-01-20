@@ -3,7 +3,7 @@ name: Wayne Aung
 role: Tutor
 email: waynstanaung@berkeley.edu
 website: 
-photo: 
+photo: wayne.jpeg
 pronouns: he/him
 office_hours: 
 team: 

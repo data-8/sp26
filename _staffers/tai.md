@@ -3,7 +3,7 @@ name: Tai Dinh
 role: Tutor
 email: dinhtai@berkeley.edu
 website: 
-photo: 
+photo: tai.jpg
 pronouns: he/him
 office_hours: 
 team: 

@@ -3,7 +3,7 @@ name: Lena Todd
 role: Tutor
 email: lena13@berkeley.edu
 website: 
-photo: 
+photo: lena.png
 pronouns: she/her
 office_hours: 
 team: 

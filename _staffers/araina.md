@@ -3,7 +3,7 @@ name: Araina Vohra
 role: Tutor
 email: arainavohra@berkeley.edu
 website: 
-photo: 
+photo: araina.png
 pronouns: she/her
 office_hours: 
 team: 

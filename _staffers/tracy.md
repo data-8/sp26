@@ -3,7 +3,7 @@ name: Tracy Law
 role: Head Teaching Assistant
 email: tracylaw@berkeley.edu
 website: 
-photo: 
+photo: tracy.jpg
 pronouns: she/her
 office_hours: 
 team: Tutors

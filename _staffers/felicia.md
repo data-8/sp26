@@ -3,7 +3,7 @@ name: Felicia Ye
 role: Tutor
 email: felicia.ye@berkeley.edu
 website: 
-photo: 
+photo: felicia.jpg
 pronouns: 
 office_hours: 
 team: 

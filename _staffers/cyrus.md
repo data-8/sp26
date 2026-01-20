@@ -3,7 +3,7 @@ name: Cyrus McSwain
 role: Teaching Assistant
 email: cmcswain@berkeley.edu
 website: 
-photo: 
+photo: cyrus.jpg
 pronouns: 
 office_hours: 
 team: 

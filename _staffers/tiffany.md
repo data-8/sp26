@@ -3,7 +3,7 @@ name: Tiffany Louie
 role: Head Teaching Assistant
 email: tilouie@berkeley.edu
 website: https://linktr.ee/tilouie
-photo: 
+photo: tiffany.png
 pronouns: she/her
 office_hours: 
 team: Logistics

@@ -3,7 +3,7 @@ name: Nao Ohashi
 role: Tutor
 email: nao_ohashi@berkeley.edu
 website: https://linktr.ee/naoohashi
-photo: 
+photo: nao.png
 pronouns: she/her
 office_hours: 
 team: 

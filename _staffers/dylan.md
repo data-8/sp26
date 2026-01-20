@@ -3,7 +3,7 @@ name: Dylan Tay
 role: Head Teaching Assistant
 email: dylan.tay@berkeley.edu
 website: 
-photo: 
+photo: dylan.jpg
 pronouns: he/him
 office_hours: 
 team: Student Support

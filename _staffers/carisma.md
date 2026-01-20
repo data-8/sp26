@@ -3,7 +3,7 @@ name: Carisma De Anda
 role: Head Teaching Assistant
 email: carismadeanda@berkeley.edu
 website: 
-photo: 
+photo: carisma.png
 pronouns: she/her
 office_hours: 
 team: Scholars

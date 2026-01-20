@@ -3,7 +3,7 @@ name: Elizabeth Gonzalez
 role: Tutor
 email: elizabeth.d.gonzo@berkeley.edu
 website: 
-photo: 
+photo: elizabeth.png
 pronouns: 
 office_hours: 
 team: 

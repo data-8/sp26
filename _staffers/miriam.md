@@ -3,7 +3,7 @@ name: Miriam De La Cruz
 role: Tutor
 email: delacruzmiriam@berkeley.edu
 website: 
-photo: 
+photo: miriam.png
 pronouns: she/her
 office_hours: 
 team: 

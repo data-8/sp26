@@ -3,7 +3,7 @@ name: Max Abubucker
 role: Head Teaching Assistant
 email: mabubuc1@berkeley.edu
 website: 
-photo: 
+photo: max.jpeg
 pronouns: 
 office_hours: 
 team: Pedagogy

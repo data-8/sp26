@@ -3,7 +3,7 @@ name: Eliza McHale
 role: Tutor
 email: emchale@berkeley.edu
 website: 
-photo: 
+photo: eliza.jpg
 pronouns: she/her
 office_hours: 
 team: 

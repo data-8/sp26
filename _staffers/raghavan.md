@@ -3,7 +3,7 @@ name: Raghavan Srinivas
 role: Tutor
 email: raghavan.srinivas@berkeley.edu
 website: raghavansrinivas.com
-photo: 
+photo: raghavan.png
 pronouns: 
 office_hours: 
 team: 

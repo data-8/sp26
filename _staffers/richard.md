@@ -3,7 +3,7 @@ name: Richard Villagomez
 role: Tutor
 email: richard.villagomez@berkeley.edu
 website: 
-photo: 
+photo: richard.png
 pronouns: he/him
 office_hours: 
 team: 

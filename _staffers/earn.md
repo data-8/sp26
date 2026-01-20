@@ -3,7 +3,7 @@ name: Rinrada (Earn) Maneenop
 role: Tutor
 email: rinradamaneenop7@berkeley.edu
 website: https://www.linkedin.com/in/rinrada-maneenop/
-photo: 
+photo: earn.jpg
 pronouns: 
 office_hours: 
 team: 

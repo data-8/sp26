@@ -3,7 +3,7 @@ name: Anirra Kutty
 role: Teaching Assistant
 email: anirra_kutty@berkeley.edu
 website: 
-photo: 
+photo: anirra.jpg
 pronouns: she/her
 office_hours: 
 team: 
