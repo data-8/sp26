@@ -1,5 +1,5 @@
 ---
-name: John Denero
+name: John DeNero
 role: Instructor
 email: denero@berkeley.edu
 website: 
