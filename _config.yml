@@ -56,10 +56,12 @@ current_week: 0
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
   # TODO(template): Move this to be built-in.
-  Ed:
-    - 'https://edstem.org'
   OH Queue:
     - 'https://oh.data8.org/'
+  Extensions:
+    - 'https://docs.google.com/forms/d/e/1FAIpQLScZ_AK4ZvHAHjrPw17XcUw1q28gUiemUEwawhQ4hDwhsQSnUQ/viewform?usp=dialog'
+  Review Sandbox:
+    - 'https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-sp26&urlpath=tree/materials-sp26/sandbox/sandbox.ipynb'
 
 # TODO(template): These need to be documented
 # TODO(semester): You may want to review these...

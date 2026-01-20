@@ -13,12 +13,12 @@ permalink: /
 UC Berkeley, Spring 2026
 {: .mb-2 .fs-6}
 
-[Ed](){: .btn .btn-ed}
-[Pensieve](){: .btn .btn-pensieve}
+[Ed](https://edstem.org/us/courses/91618/discussion){: .btn .btn-ed}
+[Pensieve](https://www.pensieve.co/student/classes/data8_sp26/my-assignments){: .btn .btn-pensieve}
 [Zoom](){: .btn .btn-zoom}
-[Lecture Recordings](){: .btn .btn-bcourses}
+[Lecture Recordings](https://bcourses.berkeley.edu/courses/1551541/external_tools/90481){: .btn .btn-bcourses}
 [Office Hours Queue](https://oh.data8.org/){: .btn .btn-officehours}
-[Extensions](){: .btn .btn-extensions}
+[Extensions](https://docs.google.com/forms/d/e/1FAIpQLScZ_AK4ZvHAHjrPw17XcUw1q28gUiemUEwawhQ4hDwhsQSnUQ/viewform?usp=dialog){: .btn .btn-extensions}
 [Jump to Current Week](https://www.data8.org/sp26/#week-{{site.current_week}}){: .btn .btn-currweek}
 
 {% include announcements-navigation.html %}
