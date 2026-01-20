@@ -18,7 +18,7 @@ nav_order: 3
 1. TOC
 {:toc}
 
-## First things first
+### First things first
 
 #### Data Science Student Climate
 
@@ -227,7 +227,7 @@ Students who are involved in academic misconduct on an exam will receive a faili
 
 The main goal of the course is that you should learn and have a fantastic experience doing so. The other goal is, of course, to have fun. Welcome to Data C8!
 
-#### Other helpful, campus resources
+### Other helpful, campus resources
 
 
 [University Health Services](https://uhs.berkeley.edu/)
