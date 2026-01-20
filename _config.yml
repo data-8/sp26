@@ -34,10 +34,10 @@ course: Data 8
 course_email: data8@berkeley.edu
 gradescope_course_id:  # you can find this in the Gradescope URL after /courses
 bcourses_course_id: 1551541 # Same as above, but for bCourses. Leave blank if not in use...
-ed_course_id:  # Again, same as above.
+ed_course_id: 91618 # Again, same as above.
 sememster: sp26 # set for the current seemester
 # TODO(template): We need to set this up.
-course_logo_path:
+course_logo_path: "/data8logo.png"
 # This should be one of eecs, dsus, stat
 # (Future) This will control some footer text, and later custom styling.
 course_department: dsus
@@ -51,7 +51,7 @@ class_archive_path: /
 # favicons can be course specific or you can use the default Berkeley one that comes with the template.
 favicon_ico: "/favicon.png"
 
-current_week: 0
+current_week: 1
 
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
