@@ -85,22 +85,6 @@
   font-size: 0.8em !important;
 }
 
-// Responsive grid for staff page
-.staff-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: $sp-4;
-  margin-bottom: $sp-6;
-  
-  @media (min-width: 50rem) {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  
-  @media (min-width: 66.5rem) {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
 .acknowledger {
   max-width: 500px !important;
   font-size: 0.8em !important;
@@ -187,84 +171,119 @@
   @extend .text-grey-dk-100, .bg-grey-lt-200;
 }
 
+// Team color styles - these must override the default .staffer-badge grey background
+.staffer-badge.label-Scholars,
 .label-Scholars {
-  background-color: #935CBC;
-  color: white;
+  background-color: #935CBC !important;
+  color: white !important;
 }
 
+.staffer-badge.label-Course,
 .label-Course {
-  background-color: #B543CB;
-  color: white;
+  background-color: #B543CB !important;
+  color: white !important;
 }
 
+.staffer-badge.label-Course-Director,
+.label-Course-Director {
+  background-color: #B543CB !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Content,
 .label-Content {
-  background-color: #006C67;
-  color: white;
+  background-color: #006C67 !important;
+  color: white !important;
 }
 
+.staffer-badge.label-TAContent,
 .label-TAContent {
-  background-color: #487d7a;
-  color: white;
+  background-color: #487d7a !important;
+  color: white !important;
 }
 
+.staffer-badge.label-Grading,
 .label-Grading {
-  background-color: #DF2F0C;
-  color: white;
+  background-color: #DF2F0C !important;
+  color: white !important;
 }
 
+.staffer-badge.label-TAGrading,
 .label-TAGrading {
-  background-color: rgb(168, 82, 67);
-  color: white;
+  background-color: rgb(168, 82, 67) !important;
+  color: white !important;
 }
 
+.staffer-badge.label-Logistics,
 .label-Logistics {
-  background-color: #3D348B;
-  color: white;
+  background-color: #3D348B !important;
+  color: white !important;
 }
 
+.staffer-badge.label-TALogistics,
 .label-TALogistics {
-  background-color: #615d89;
-  color: white;
+  background-color: #615d89 !important;
+  color: white !important;
 }
 
+.staffer-badge.label-Pedagogy,
 .label-Pedagogy {
-  background-color: #9C3848;
-  color: white;
+  background-color: #9C3848 !important;
+  color: white !important;
 }
 
+.staffer-badge.label-TAPedagogy,
 .label-TAPedagogy {
-  background-color: #a0666f;
-  color: white;
+  background-color: #a0666f !important;
+  color: white !important;
 }
 
+.staffer-badge.label-Tutors,
 .label-Tutors {
-  background-color: #A76406;
-  color: white;
+  background-color: #A76406 !important;
+  color: white !important;
 }
 
+.staffer-badge.label-TATutors,
 .label-TATutors {
-  background-color: #a15e01;
-  color: white;
+  background-color: #a15e01 !important;
+  color: white !important;
 }
 
+.staffer-badge.label-Student,
 .label-Student {
-  background-color: #2D8095;
-  color: white;
+  background-color: #2D8095 !important;
+  color: white !important;
 }
 
+.staffer-badge.label-Student-Support,
+.label-Student-Support {
+  background-color: #2D8095 !important;
+  color: white !important;
+}
+
+.staffer-badge.label-TAStudent,
 .label-TAStudent {
-  background-color: #365a63;
-  color: white;
+  background-color: #365a63 !important;
+  color: white !important;
 }
 
+.staffer-badge.label-Software,
+.label-Software {
+  background-color: #0F766E !important;
+  color: white !important;
+}
+
+.staffer-badge.label-Professor,
 .label-Professor {
-  background-color: #624099;
-  color: white;
+  background-color: #624099 !important;
+  color: white !important;
 }
 
+.staffer-badge.label-Instructor,
 .label-Instructor {
-  background-color: #5e1c82;
-  color: white;
+  background-color: #5e1c82 !important;
+  color: white !important;
 }
 
 .btn-datahub {

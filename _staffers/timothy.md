@@ -5,6 +5,7 @@ email: tja@berkeley.edu
 website: https://timothyaveni.com/
 photo: timothy.jpg
 pronouns: he/him
+team: Software
 office_hours: 
 access_email: 
 access_dsp: 

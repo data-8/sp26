@@ -6,7 +6,7 @@ website:
 photo: sj.jpg
 pronouns: he/him
 office_hours: 
-team: Content
+team: Grading
 access_email: 
 access_dsp: 
 ---
