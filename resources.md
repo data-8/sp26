@@ -10,7 +10,7 @@ nav_order: 5
 
 # **Resources**
 
-[Student Materials Folder](https://drive.google.com/drive/folders/1AmzlJvYWk8Ufiplo0duGPt39NhFWspRE?usp=drive_link)
+[Student Materials Folder](https://drive.google.com/drive/folders/11kDVjTdfOgJ7atPsVbTzrZhKNl15tP8Z?usp=sharing)
 
 All official course materials (including Discussion and Tutoring worksheets) can be found in the above folder. These will be updated throughout the semester.
 

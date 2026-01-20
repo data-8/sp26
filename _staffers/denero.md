@@ -1,7 +1,7 @@
 ---
 name: John Denero
 role: Instructor
-email: 
+email: denero@berkeley.edu
 website: 
 photo: denero.jpeg
 pronouns: 

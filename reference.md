@@ -9,9 +9,9 @@ description: >-
 # **Detailed Python Reference Sheet**
 
 {:.no_toc}
-Created by Nishant Kheterpal and Jessica Hu; contributions by Jonathan Ferrari, Edwin Vargas and Bing Concepcion  
- Updated and maintained by Marissa Lumpkin and Isaac Chung
+Created by Nishant Kheterpal and Jessica Hu; contributions by Jonathan Ferrari, Edwin Vargas, Bing Concepcion, Tim Xie, and Isaac Chung
 
+Updated and maintained by Marissa Lumpkin
 ## Table of Contents
 {: .no_toc .text-delta }
 
