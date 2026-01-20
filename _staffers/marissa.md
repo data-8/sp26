@@ -11,4 +11,4 @@ access_email:
 access_dsp: 
 ---
 
-WOOT WOOT
+Hi! I’m a senior from SF studying CS, DS, and design. I love going on runs in the Berkeley hills, designing/building things, and coffee shop hopping around campus. Super excited for another Data gr8 semester :)

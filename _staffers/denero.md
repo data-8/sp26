@@ -3,7 +3,7 @@ name: John Denero
 role: Instructor
 email: 
 website: 
-photo: 
+photo: denero.jpeg
 pronouns: 
 section: 
 office_hours: 
@@ -12,4 +12,4 @@ access_email:
 access_dsp: 
 ---
 
-yay
+I helped create Data 8 and I'm delighted to be back teaching the course after a few years off. Come to my office hours and say hello!
