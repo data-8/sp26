@@ -11,4 +11,4 @@ access_email:
 access_dsp: 
 ---
 
-Hello! I'm a senior studying Applied Math and CS who audiobooks, racket sports, and eating. So excited for one more semester with the best class and course staff! 
+Hello! I'm a senior studying Applied Math and CS who loves audiobooks, racket sports, and eating. So excited for one more semester with the best class and course staff! 
