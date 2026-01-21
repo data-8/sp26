@@ -141,7 +141,7 @@ You can also get help at office hours. We highly recommend getting started on th
 _How to Submit Your Homework Assignment_
 
 [Here](https://drive.google.com/file/d/1geOaRRmQonac1A5WVjzlcEl1NS2nAt37/view?usp=sharing) is a link to a video on the assignment submission process (make sure you’re logged into your Berkeley e-mail). 
-As a reminder, it is your responsibility to make sure the autograder tests results in the notebook match the autograder results on Pensieve after you submit. Check out our [DataHub Guide](https://www.data8.org/sp26/debugging/) if you run into any issues working on Jupyter Notebook before posting on Ed.
+As a reminder, it is your responsibility to make sure the autograder tests results in the notebook match the autograder results on Pensieve after you submit. Check out our [DataHub Guide](https://www.data8.org/sp26/faq/#datahub) if you run into any issues working on Jupyter Notebook before posting on Ed.
 
 ### Projects
 
