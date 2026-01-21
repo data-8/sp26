@@ -36,7 +36,7 @@ hw_days: ['5']
 # assignment is numbered HW1 instead.
 # You may not need all of these. 
 starting_lecture_number: '1'
-starting_discussion_number: '2'
+starting_discussion_number: '1'
 starting_homework_number: '1'
 starting_lab_number: '1'
 starting_project_number: '1'
