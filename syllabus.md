@@ -164,7 +164,7 @@ The midterm exam will be held in-person, likely during the week of March 8. As s
 
 The final exam is required for a passing grade, and will be held in-person on Tuesday, May 12, from 7-10pm PT.
 
-There will be one alternate exam for the midterm, which is only for those with course conflicts. There will not be an alternate exam for the final exam. 
+There will be one alternate exam for the midterm, which is only for those with course conflicts. 
 
 ## Grades
 
