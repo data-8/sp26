@@ -123,7 +123,7 @@ Students may switch formats at two points throughout the semester (1) during the
 
 _How Should You Submit The Programming-Based Assignment?_
 
-[Here](https://drive.google.com/file/d/1geOaRRmQonac1A5WVjzlcEl1NS2nAt37/view?usp=sharing) is a video for how to submit the programming assignment to Pensieve. Before posting about code errors, please check our [debugging page](https://www.data8.org/sp26/debugging/)! We have listed common errors and reasons why they might be coming up for you.
+[Here](https://drive.google.com/file/d/1H9UwEb7uQrc1eK0PKGxtu95woP4IcyGI/view?usp=sharing) is a video for how to submit the programming assignment to Pensieve. Before posting about code errors, please check our [debugging page](https://www.data8.org/sp26/debugging/)! We have listed common errors and reasons why they might be coming up for you.
 
 
 _Asking for Help_
