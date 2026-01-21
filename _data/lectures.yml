@@ -19,8 +19,8 @@
 # providing the readings field.
 
 lectures:
-  #- slug: "01"
-  - title: Introduction
+  - slug: "01"
+  #- title: Introduction
     readings:
       - links:
           - text: 1.1
