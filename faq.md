@@ -21,11 +21,6 @@ description: >-
 </details>
 
 <details>
-  <summary><strong>Q: I passed all the tests when doing my homework/project, but still got points off on the autograded portion of the assignment. Why is this happening?</strong></summary>
-  <p style="margin-left:16px;">A: The homeworks and projects have hidden tests that are not visible to students while they do the assignment. In order to pass these hidden tests, you must test your code yourself and make sure your answer is correct. Our tests are not always comprehensive.</p>
-</details>
-
-<details>
   <summary><strong>Q: I have a 80/100 on my grade report for a lab that I attended and got checked off. Why is this?</strong></summary>
   <p style="margin-left:16px;">A: Your attendance may have been marked incorrectly. Please contact your lab TA.</p>
 </details>
