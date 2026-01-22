@@ -14,6 +14,7 @@
 # you provided a slug or provides an external link
 homework:
   - title: Causality and Expressions (Due 1/28)
+    link: "https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fhw%2Fhw01%2Fhw01.ipynb"
     date: 2026-01-23
   - title: Arrays and Tables (Due 2/4)
     date: 2026-01-30
