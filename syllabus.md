@@ -155,7 +155,7 @@ We _highly recommend_ starting early, so on the day that the project is released
 
 _Submitting your Project with a Partner_
 
-Here's a [walkthrough video](https://drive.google.com/file/d/12lBUSu5hFOZCdBE5QTQuBalT0nMgRhyC/view?usp=sharing) on how to add partners on Pensieve! Make sure only one of you submits the project.
+Here's a [walkthrough video](https://drive.google.com/file/d/1H9UwEb7uQrc1eK0PKGxtu95woP4IcyGI/view?usp=sharing) on how to add partners on Pensieve! Make sure only one of you submits the project.
 
 
 ### Exams
