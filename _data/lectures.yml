@@ -29,7 +29,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/01/2/why-data-science/index.html
           - text: 1.3
             url: https://inferentialthinking.com/chapters/01/3/plotting-the-classics/index.html
-  - title: Cause and Effect
+  - slug: "02"
+  #- title: Cause and Effect
     readings: 
       - title: 2
         link: https://inferentialthinking.com/chapters/02/causality-and-experiments.html
