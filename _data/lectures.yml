@@ -34,7 +34,8 @@ lectures:
     readings: 
       - title: 2
         link: https://inferentialthinking.com/chapters/02/causality-and-experiments.html
-  - title: Python
+  - slug: "03"
+  #- title: Python
     readings:
       - title: 3
         link: https://inferentialthinking.com/chapters/03/programming-in-python.html
