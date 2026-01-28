@@ -2,7 +2,7 @@
 name: Aditya Dawar
 role: Teaching Assistant
 email: adityadawar@berkeley.edu
-website: tinyurl.com/aditya-data8
+website: http://tinyurl.com/aditya-data8
 photo: aditya.png
 pronouns: he/him
 office_hours: 
