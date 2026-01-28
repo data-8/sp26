@@ -10,11 +10,11 @@
 # nonumber supresses the label and numbering for the lecture entry
 # skip: true will omit the lecture from the schedule entirely
 
-# link overrides the default link to the lecture page from the collection if 
+# link overrides the default link to the lecture page from the collection if
 # you provided a slug or provides an external link
 
 # readings appear in the third column of the schedule page. If you have a single reading
-# provide title and link. If you have multiple readings, provide a list of links with 
+# provide title and link. If you have multiple readings, provide a list of links with
 # text and url fields (no title field necessary in this case). You can skip readings by not
 # providing the readings field.
 
@@ -31,7 +31,7 @@ lectures:
             url: https://inferentialthinking.com/chapters/01/3/plotting-the-classics/index.html
   - slug: "02"
   #- title: Cause and Effect
-    readings: 
+    readings:
       - title: 2
         link: https://inferentialthinking.com/chapters/02/causality-and-experiments.html
   - slug: "03"
@@ -123,7 +123,7 @@ lectures:
           - text: 10.1
             url: https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html
   - title: Models
-    readings: 
+    readings:
       - links:
           - text: 10.2
             url: https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html
@@ -160,9 +160,9 @@ lectures:
           - text: 12.3
             url: https://inferentialthinking.com/chapters/12/3/Deflategate.html
   - title: Midterm Review
-  - title: Midterm Review
   - title: No Lecture
     nonumber: true
+  - title: Privacy
   - title: Confidence Intervals
     readings:
       - links:
@@ -173,7 +173,7 @@ lectures:
           - text: 13.2
             url: https://inferentialthinking.com/chapters/13/2/Bootstrap.html
   - title: Interpreting Confidence
-    readings: 
+    readings:
       - links:
           - text: 13.3
             url: https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html
@@ -203,7 +203,7 @@ lectures:
             url: https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html
   - title: Sample Means
     readings:
-      - links: 
+      - links:
           - text: 14.5
             url: https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html
   - title: "Case Study: Elections"
@@ -213,7 +213,7 @@ lectures:
             url: https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html
   - title: Numerical Associations
     readings:
-      - links: 
+      - links:
           - text: 15.1
             url: https://inferentialthinking.com/chapters/15/1/Correlation.html
   - title: Linear Regression
