@@ -39,7 +39,8 @@ lectures:
     readings:
       - title: 3
         link: https://inferentialthinking.com/chapters/03/programming-in-python.html
-  - title: Data Types
+  - slug: "04"
+  #- title: Data Types
     readings:
       - links:
           - text: 4
