@@ -160,7 +160,7 @@ Here's a [walkthrough video](https://drive.google.com/file/d/1H9UwEb7uQrc1eK0PKG
 
 ### Exams
 
-The midterm exam will be held in-person, likely during the week of March 8. As soon as the university schedules the exam, we'll let you know.
+The midterm exam will be held in-person on Tuesday, March 10, from 8-10pm PT.
 
 The final exam is required for a passing grade, and will be held in-person on Tuesday, May 12, from 7-10pm PT.
 
