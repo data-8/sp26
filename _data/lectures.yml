@@ -47,7 +47,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/04/Data_Types.html
           - text: 5
             url: https://inferentialthinking.com/chapters/05/Sequences.html
-  - title: Tables
+  - slug: "05"
+  #- title: Tables
     readings:
       - links:
           - text: 6.1
