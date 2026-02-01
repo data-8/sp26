@@ -11,3 +11,6 @@ We use an [online sign-up system](https://oh.data8.org/) to help keep track of e
 {% for calendar in site.calendars %}
   {{ calendar }}
 {% endfor %}
+
+<!-- This page must include an element with a #full-calendar id -->
+<!--<div id="full-calendar" style="width: 100%"></div>-->
