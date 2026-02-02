@@ -55,7 +55,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html
           - text: 6.2
             url: https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html
-  - title: "Case Study: Census"
+  - slug: "06"
+  #- title: "Case Study: Census"
     readings:
       - links:
           - text: 6.3
