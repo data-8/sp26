@@ -38,7 +38,7 @@ These notes serve as supplementary readings and may not necessarily align with l
 
 Exams, practice exams, and walkthrough videos from previous semesters can be found below. These exams may differ in terms of material covered and syntax used, as the datascience library has changed over time.
 
-For the Fall 2025 midterm, students received this [reference sheet](https://drive.google.com/file/d/1OD3ix5Ffch5vZGaJlDX6KSwc9Dfyov-D/view?usp=drive_link).
+Students receive this [reference sheet](https://drive.google.com/file/d/1OD3ix5Ffch5vZGaJlDX6KSwc9Dfyov-D/view?usp=drive_link).
 
 {% include past-exams.md %}
 

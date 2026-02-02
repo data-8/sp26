@@ -22,11 +22,11 @@ Updated and maintained by Marissa Lumpkin
 
 ## Abbreviated Reference Sheet
 
-For Fall 2025, students will receive an abbreviated reference sheet for exams. 
+Students will receive an abbreviated reference sheet for exams.
 
 * [Past Midterm Reference Sheet](https://drive.google.com/file/d/1OD3ix5Ffch5vZGaJlDX6KSwc9Dfyov-D/view)
 
---- 
+---
 
 ## Table Functions and Methods
 In the examples in the left column, `np` refers to the NumPy module, as usual. Everything else is a function, a method, an example of an argument to a function or method, or an example of an object we might call the method on. For example, `tbl` refers to a table, `array` refers to an array, `str` refers to a string, and `num` refers to a number. `array.item(0)` is an example call for the method item, and in that example, `array` is the name previously given to some array.
@@ -129,7 +129,7 @@ Any of these predicates can be negated by adding `not_` in front of them, e.g. `
 
 ## Miscellaneous Functions
 
-These are functions in the `datascience` library that are used in the course that don't fall into any of the categories above. You can also read more about all functions in the `datascience` library on the [`datascience` documentation](http://data8.org/datascience/). 
+These are functions in the `datascience` library that are used in the course that don't fall into any of the categories above. You can also read more about all functions in the `datascience` library on the [`datascience` documentation](http://data8.org/datascience/).
 
 | **Name** | **Description** | **Input** | **Output** |
 | `sample_proportions(n, model_proportions)` | `n` should be an integer; `model_proportions` should be an array of probabilities that sum up to 1. The function samples `n` objects from the distribution specified by `model_proportions`. It returns an array with the same size as `model_proportions`. Each item in the array corresponds to the proportion of times it was sampled out of the `n` times. ([Ch 11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)) | 1. **int**: sample size <br> 2. **array**: an array of proportions; sums to 1 | **array**: proportion of times that each item was sampled from `model_proportions` in `n` samples; sums to 1 |
