@@ -2,7 +2,7 @@
 name: Azalea Bailey
 role: Teaching Assistant
 email: azalea.mbailey@berkeley.edu
-website: 
+website: https://drive.google.com/drive/folders/15IP89HC0EN4rNJZ_Q6Zqs648___2LhGY?usp=sharing
 photo: azalea.jpeg
 pronouns: she/her
 office_hours: 
