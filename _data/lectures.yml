@@ -79,7 +79,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html
           - text: 7.3
             url: https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html
-  - title: Functions
+  - slug: "09"
+  # - title: Functions
     readings:
       - links:
           - text: 8
