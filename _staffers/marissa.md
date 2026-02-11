@@ -11,4 +11,7 @@ access_email:
 access_dsp: 
 ---
 
-Hi! I’m a senior from SF studying CS, DS, and design. I love going on runs in the Berkeley hills, designing/building things, and coffee shop hopping around campus. Super excited for another Data gr8 semester :)
+marissa = Table().with_columns(
+    "general info", make_array("senior", "sf local", "data 8 lover"), 
+    "studying", make_array("cs", "ds", "design"), 
+    "hobbies", make_array("running/hiking", "building things", "coffee shop hopping"))
