@@ -87,7 +87,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/08/Functions_and_Tables.html
           - text: 8.1
             url: https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html
-  - title: Groups
+  - slug: "10"
+  # - title: Groups
     readings:
       - links:
           - text: 8.2
