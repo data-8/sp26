@@ -7,7 +7,7 @@ date: 2026-02-08
 1. **Assignments Due**
     * {{site.links.hw.hw03}} is due on *<u>Wednesday</u>, February 11th @ 11 AM*
     * {{site.links.lab.lab04}} is due on *<u>Friday</u>, February 13th @ 5 PM*
-    * Homework 04 is due on *<u>Wednesday</u>, February 18th @ 11 AM*
+    * {{site.links.hw.hw04}} is due on *<u>Wednesday</u>, February 18th @ 11 AM*
     * Project 1: World Population and Poverty will be released on Friday
         * Checkpoint is due on  *<u>Friday</u>, February 20th @ 5 PM*
         * Entire Project is due on  *<u>Friday</u>, February 27th @ 5 PM*
