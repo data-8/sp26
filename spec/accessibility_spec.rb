@@ -53,6 +53,14 @@ ALL_PAGES.each do |path|
     next
   end
 
+  if path.match(%r{/sp26/materials/})
+    describe 'Jupyter Notebook Exports' do
+      skip "skipping likely notebook file @ #{path}"
+    end
+
+    next
+  end
+
   describe "#{path} is accessible", :js, type: :feature do
     context 'when light mode' do
       before do
