@@ -6,7 +6,7 @@ date: 2026-02-15
 
 1. **Assignments Due**
     * {{site.links.hw.hw04}} is due on *<u>Wednesday</u>, February 18th @ 11 AM*
-    * {{site.links.project.project01}} will be released on Friday
+    * {{site.links.project.project01}}
         * Checkpoint is due on  *<u>Friday</u>, February 20th @ 5 PM*
         * Entire Project is due on  *<u>Friday</u>, February 27th @ 5 PM*
     * Homework 05 is due on *<u>Wednesday</u>, February 25th @ 11 AM*
