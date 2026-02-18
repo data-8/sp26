@@ -21,8 +21,7 @@ UC Berkeley, Spring 2026
 [Extensions](https://docs.google.com/forms/d/e/1FAIpQLScZ_AK4ZvHAHjrPw17XcUw1q28gUiemUEwawhQ4hDwhsQSnUQ/viewform?usp=dialog){: .btn .btn-extensions}
 [Jump to Current Week](https://www.data8.org/sp26/#week-{{site.current_week}}){: .btn .btn-currweek}
 
-{% assign announcement = site.announcements | last %}
-{{ announcement }}
+{% include announcements-navigation.html %}
 
 <div>
 {%- include schedule.html -%}
