@@ -37,7 +37,7 @@ bcourses_course_id: 1551541 # Same as above, but for bCourses. Leave blank if no
 ed_course_id: 91618 # Again, same as above.
 sememster: sp26 # set for the current seemester
 # TODO(template): We need to set this up.
-logo: "/valentine_logo.png"
+logo: "/data8logo.png"
 # This should be one of eecs, dsus, stat
 # (Future) This will control some footer text, and later custom styling.
 course_department: dsus

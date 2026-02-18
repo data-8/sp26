@@ -102,7 +102,8 @@ lectures:
         link: https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html
   - title: No Lecture
     nonumber: true
-  - title: Iteration
+  - slug: "12"
+  # - title: Iteration
     readings:
       - links:
           - text: 9
