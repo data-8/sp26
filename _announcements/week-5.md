@@ -1,5 +1,5 @@
 ---
-title: Week 5 Announcement
+title: Week 5
 week: 5
 date: 2026-02-15
 ---

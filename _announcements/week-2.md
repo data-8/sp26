@@ -1,5 +1,5 @@
 ---
-title: Week 2 Announcement
+title: Week 2
 week: 2
 date: 2026-01-25
 ---

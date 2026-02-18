@@ -1,5 +1,5 @@
 ---
-title: Week 4 Announcement
+title: Week 4
 week: 4
 date: 2026-02-08
 ---
