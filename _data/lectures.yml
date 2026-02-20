@@ -112,8 +112,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html
           - text: 9.2
             url: https://inferentialthinking.com/chapters/09/2/Iteration.html
-  - slug: "13"
-  #- title: Chance
+  # - slug: "13"
+  - title: Chance
     readings:
       - links:
           - text: 9.2
