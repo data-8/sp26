@@ -122,7 +122,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/09/3/Simulation.html
           - text: 9.4
             url: https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html
-  - title: Sampling
+  - slug: "14"
+  # - title: Sampling
     readings:
       - links:
           - text: 9.5
