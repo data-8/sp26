@@ -6,7 +6,7 @@ date: 2026-02-22
 
 1. **Assignments Due**
     * {{site.links.hw.hw05}} is due on *<u>Thursday</u>, February 26th @ 11 AM*
-    * Lab 05 is due on *<u>Friday</u>, February 27th @ 5 PM*
+    * {{site.links.lab.lab05}} is due on *<u>Friday</u>, February 27th @ 5 PM*
     * {{site.links.project.project01}}
         * Entire Project is due on  *<u>Friday</u>, February 27th @ 5 PM*
         * Make sure to add your project partner to your autograder submission! Partners will be automatically added to your written work submission.
