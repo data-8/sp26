@@ -132,7 +132,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html
           - text: 10.1
             url: https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html
-  - title: Models
+  - slug: "15"
+  # - title: Models
     readings:
       - links:
           - text: 10.2
