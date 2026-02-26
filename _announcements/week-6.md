@@ -10,6 +10,7 @@ date: 2026-02-22
     * {{site.links.project.project01}}
         * Entire Project is due on  *<u>Friday</u>, February 27th @ 5 PM*
         * Make sure to add your project partner to your autograder submission! Partners will be automatically added to your written work submission.
+    * {{site.links.hw.hw06}} is due on *<u>Friday</u>, March 6th @ 11 AM*
 2. **Project 1 Parties this week**
     * Tuesday, 2/24 from 6-8PM in Evans 458
     * Wednesday, 2/25 from 6-8PM in Evans B6
