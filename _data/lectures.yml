@@ -142,7 +142,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html
           - text: 10.4
             url: https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html
-  - title: Comparing Distributions
+  - slug: "16"
+  # - title: Comparing Distributions
     readings:
       - links:
           - text: 11.1
