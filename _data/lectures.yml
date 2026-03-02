@@ -150,7 +150,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html
           - text: 11.2
             url: https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html
-  - title: Decisions and Uncertainty
+  - slug: "17"
+  # - title: Decisions and Uncertainty
     readings:
       - links:
           - text: 11.3
