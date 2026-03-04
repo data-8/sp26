@@ -12,6 +12,6 @@ access_dsp:
 ---
 
 marissa = Table().with_columns(
-    "general info", make_array("senior", "sf local", "data 8 lover"), 
-    "studying", make_array("cs", "ds", "design"), 
-    "hobbies", make_array("running/hiking", "building things", "coffee shop hopping"))
+ "general info", make_array("senior", "sf local", "data 8 lover"), 
+ "studying", make_array("cs", "ds", "design"), 
+ "hobbies", make_array("running/hiking", "building things", "coffee shop hopping"))
