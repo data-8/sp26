@@ -166,7 +166,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html
           - text: 12.1
             url: https://inferentialthinking.com/chapters/12/1/AB_Testing.html
-  - title: Causality
+  - slug: "19"
+  #- title: Causality
     readings:
       - links:
           - text: 12.2
