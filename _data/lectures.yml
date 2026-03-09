@@ -174,7 +174,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/12/2/Causality.html
           - text: 12.3
             url: https://inferentialthinking.com/chapters/12/3/Deflategate.html
-  - title: Midterm Review
+  - slug: "20"
+  # - title: Midterm Review
   - title: No Lecture
     nonumber: true
   - title: Privacy
