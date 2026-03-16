@@ -179,7 +179,8 @@ lectures:
   - title: No Lecture
     nonumber: true
   - title: Privacy
-  - title: Confidence Intervals
+  - slug: "22"
+  # - title: Confidence Intervals
     readings:
       - links:
           - text: 13
