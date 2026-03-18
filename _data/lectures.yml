@@ -189,7 +189,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/13/1/Percentiles.html
           - text: 13.2
             url: https://inferentialthinking.com/chapters/13/2/Bootstrap.html
-  - title: Interpreting Confidence
+  - slug: "23"
+  # - title: Interpreting Confidence
     readings:
       - links:
           - text: 13.3
