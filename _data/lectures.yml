@@ -197,7 +197,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html
           - text: 13.4
             url: https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html
-  - title: Center and Spread
+  - slug: "24"
+  # - title: Center and Spread
     readings:
       - links:
           - text: 14
