@@ -1,0 +1,17 @@
+---
+title: Week 10
+week: 10
+date: 2026-03-29
+---
+
+1. **Assignments Due**
+    * {{site.links.hw.hw07}} is due on *<u>Wednesday</u>, April 1st @ 11 AM*
+    * Lab 08 is due on *<u>Friday</u>, April 3rd @ 5 PM*
+    * Homework 08 is due on *<u>Wednesday</u>, April 8th @ 11 AM*
+    * Project 2: Climate
+        * Checkpoint is due on *<u>Friday</u>, April 10th @ 5 PM*
+        * Entire project is due on *<u>Friday</u>, April 17th @ 5 PM*
+2. **[Homework 6 and Lab 6 Release](https://edstem.org/us/courses/91618/discussion/7865595)**
+    * Check that your scores look correct!
+3. **[New Tutoring Section Times Added](https://edstem.org/us/courses/91618/discussion/7861469)**
+    * Sign-ups are open at [sections.data8.org/tutoring](https://sections.data8.org/tutoring)
