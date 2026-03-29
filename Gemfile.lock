@@ -72,6 +72,7 @@ GEM
       net-http (~> 0.5)
     faraday-retry (2.4.0)
       faraday (~> 2.0)
+    ffi (1.17.3)
     ffi (1.17.3-aarch64-linux-gnu)
     ffi (1.17.3-aarch64-linux-musl)
     ffi (1.17.3-arm-linux-gnu)
@@ -174,10 +175,14 @@ GEM
     matrix (0.4.3)
     mercenary (0.4.0)
     mini_mime (1.1.5)
+    mini_portile2 (2.8.9)
     minitest (6.0.1)
       prism (~> 1.5)
     net-http (0.9.1)
       uri (>= 0.11.1)
+    nokogiri (1.19.0)
+      mini_portile2 (~> 2.8.2)
+      racc (~> 1.4)
     nokogiri (1.19.0-aarch64-linux-gnu)
       racc (~> 1.4)
     nokogiri (1.19.0-aarch64-linux-musl)
@@ -256,6 +261,9 @@ GEM
     ruby-progressbar (1.13.0)
     rubyzip (3.2.2)
     safe_yaml (1.0.5)
+    sass-embedded (1.97.2)
+      google-protobuf (~> 4.31)
+      rake (>= 13)
     sass-embedded (1.97.2-aarch64-linux-gnu)
       google-protobuf (~> 4.31)
     sass-embedded (1.97.2-aarch64-linux-musl)
@@ -306,6 +314,7 @@ PLATFORMS
   arm-linux-musl
   arm-linux-musleabihf
   arm64-darwin
+  ruby
   x86_64-darwin
   x86_64-linux-gnu
   x86_64-linux-musl

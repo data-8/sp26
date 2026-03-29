@@ -17,28 +17,28 @@ discussions:
     slug: "disc01"
     date: 2026-01-21
   - title: Intro to Tables & Causation
-    link: "https://drive.google.com/file/d/1XQzTEpkXXTZBlwbBPUxPxpAJzRn351YX/view?usp=sharing"
+    slug: "disc02"
     date: 2026-01-26
   - title: Visualizations, Data Types, Extending Tables
-    link: "https://drive.google.com/file/d/1jxL307r5UnsADEVSUZKV_IPUNQfMmG0x/view?usp=sharing"
+    slug: "disc03"
     date: 2026-02-02
   - title: More Visualizations, Intro to Functions
-    link: "https://drive.google.com/file/d/1aEVpz15Fh_qUDl0qTFLsRU_K6AkT9J40/view?usp=drive_link"
+    slug: "disc04"
     date: 2026-02-09
   - title: Table Methods, Conditionals & Iteration
-    link: "https://drive.google.com/file/d/1gHGFUUu6ASWD_AShxJ4CKUGkfx74Jpwb/view?usp=sharing"
+    slug: "disc05"
     date: 2026-02-16
   - title: Chance & Models
-    link: "https://drive.google.com/file/d/1xZtLbcVLoulGzZ-45J-6OfyGSwOM1RZA/view?usp=sharing"
+    slug: "disc06"
     date: 2026-02-23
   - title: Midterm Review
-    link: "https://drive.google.com/file/d/16czMYIBUo-uSpvSTRsXKZDNM1Fv9dlEU/view?usp=sharing"
+    slug: "disc07"
     date: 2026-03-02
   - title: More Midterm Review
-    link: "https://drive.google.com/file/d/1WU8GBlu3lJO55mByQP4oH9kq0e4DCZDM/view?usp=sharing"
+    slug: "disc08"
     date: 2026-03-09
   - title: The Bootstrap
-    link: "https://drive.google.com/file/d/1APG8uRspZUnaZf7sq3z8Ks_6BS4hoBHl/view?usp=drive_link"
+    slug: "disc09"
     date: 2026-03-16
   - title: The Central Limit Theorem
     date: 2026-03-30
