@@ -213,7 +213,8 @@ lectures:
     nonumber: true
   - title: No Lecture
     nonumber: true
-  - title: The Normal Distribution
+  - slug: "25"
+  # - title: The Normal Distribution
     readings:
       - links:
           - text: 14.3
