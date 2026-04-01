@@ -11,7 +11,8 @@ date: 2026-03-29
     * Project 2: Climate
         * Checkpoint is due on *<u>Friday</u>, April 10th @ 5 PM*
         * Entire project is due on *<u>Friday</u>, April 17th @ 5 PM*
-2. **[Homework 6 and Lab 6 Release](https://edstem.org/us/courses/91618/discussion/7865595)**
+2. **For more practice, check out our online discussion worksheets on [bcourses](https://bcourses.berkeley.edu/courses/1551541/assignments)!**
+3. **[Homework 6 and Lab 6 Release](https://edstem.org/us/courses/91618/discussion/7865595)**
     * Check that your scores look correct!
-3. **[New Tutoring Section Times Added](https://edstem.org/us/courses/91618/discussion/7861469)**
+4. **[New Tutoring Section Times Added](https://edstem.org/us/courses/91618/discussion/7861469)**
     * Sign-ups are open at [sections.data8.org/tutoring](https://sections.data8.org/tutoring)
