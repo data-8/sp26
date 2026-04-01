@@ -221,7 +221,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html
           - text: 14.4
             url: https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html
-  - title: Sample Means
+  - slug: "26"
+  # - title: Sample Means
     readings:
       - links:
           - text: 14.5
