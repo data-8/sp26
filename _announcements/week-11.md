@@ -7,7 +7,7 @@ date: 2026-03-29
 1. **Assignments Due**
     * {{site.links.hw.hw07}} is due on *<u>Wednesday</u>, April 1st @ 11 AM*
     * {{site.links.lab.lab08}} is due on *<u>Friday</u>, April 3rd @ 5 PM*
-    * Homework 08 is due on *<u>Wednesday</u>, April 8th @ 11 AM*
+    * {{site.links.hw.hw08}} is due on *<u>Wednesday</u>, April 8th @ 11 AM*
     * Project 2: Climate
         * Checkpoint is due on *<u>Friday</u>, April 10th @ 5 PM*
         * Entire project is due on *<u>Friday</u>, April 17th @ 5 PM*
