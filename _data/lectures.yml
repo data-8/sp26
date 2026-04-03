@@ -227,7 +227,8 @@ lectures:
       - links:
           - text: 14.5
             url: https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html
-  - title: "Case Study: Elections"
+  - slug: "27"
+  # - title: "Case Study: Elections"
     readings:
       - links:
           - text: 14.6
