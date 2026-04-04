@@ -10,7 +10,7 @@ projects:
     label-number: 1
   - title: Climate (Checkpoint Due 4/10, Entire Project Due 4/17)
     date: 2026-04-03
-    link:
+    link: https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp26&urlpath=tree%2Fmaterials-sp26%2Fproject%2Fproject2%2Fproject2.ipynb
     label-number: 2
   - title: Movie Classification (Checkpoint Due 4/24, Entire Project Due 5/1)
     date: 2026-04-17
