@@ -233,7 +233,8 @@ lectures:
       - links:
           - text: 14.6
             url: https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html
-  - title: Numerical Associations
+  - slug: "28"
+  # - title: Numerical Associations
     readings:
       - links:
           - text: 15.1
