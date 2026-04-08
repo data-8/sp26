@@ -239,7 +239,8 @@ lectures:
       - links:
           - text: 15.1
             url: https://inferentialthinking.com/chapters/15/1/Correlation.html
-  - title: Linear Regression
+  - slug: "29"
+  # - title: Linear Regression
     readings:
       - links:
           - text: 15.2
