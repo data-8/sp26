@@ -245,7 +245,8 @@ lectures:
       - links:
           - text: 15.2
             url: https://inferentialthinking.com/chapters/15/2/Regression_Line.html
-  - title: Least Squares
+  - slug: "30"
+  # - title: Least Squares
     readings:
       - links:
           - text: 15.3
