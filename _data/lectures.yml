@@ -253,7 +253,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html
           - text: 15.4
             url: https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html
-  - title: Residuals
+  - slug: "31"
+  # - title: Residuals
     readings:
       - links:
           - text: 15.5
