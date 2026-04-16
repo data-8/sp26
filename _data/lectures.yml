@@ -259,7 +259,8 @@ lectures:
       - links:
           - text: 15.5
             url: https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html
-  - title: Regression Inference
+  - slug: "32"
+  #- title: Regression Inference
     readings:
       - links:
           - text: 16
