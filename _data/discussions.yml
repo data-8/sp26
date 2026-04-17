@@ -47,6 +47,7 @@ discussions:
     slug: "disc11"
     date: 2026-04-06
   - title: Residuals
+    slug: "disc12"
     date: 2026-04-13
   - title: Intervals for Predictions & kNN Classification
     date: 2026-04-20
