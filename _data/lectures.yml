@@ -260,12 +260,13 @@ lectures:
           - text: 15.5
             url: https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html
   - slug: "32"
-  #- title: Regression Inference
+  # - title: Regression Inference
     readings:
       - links:
           - text: 16
             url: https://inferentialthinking.com/chapters/16/Inference_for_Regression.html
-  - title: Classification
+  - slug: "33"
+  # - title: Classification
     readings:
       - links:
           - text: 17.1
