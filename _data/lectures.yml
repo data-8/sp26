@@ -273,7 +273,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html
           - text: 17.2
             url: https://inferentialthinking.com/chapters/17/2/Training_and_Testing.html
-  - title: Implementing Classifiers
+  - slug: "34"
+  # - title: Implementing Classifiers
     readings:
       - links:
           - text: 17.3
