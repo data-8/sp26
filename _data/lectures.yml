@@ -281,7 +281,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/17/3/Rows_of_Tables.html
           - text: 17.4
             url: https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html
-  - title: Evaluating Classifiers
+  - slug: "35"
+  # - title: Evaluating Classifiers
     readings:
       - links:
           - text: 17.5
