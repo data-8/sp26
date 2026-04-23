@@ -287,7 +287,8 @@ lectures:
       - links:
           - text: 17.5
             url: https://inferentialthinking.com/chapters/17/5/Accuracy_of_the_Classifier.html
-  - title: Text Classification
+  - slug: "36"
+  # - title: Text Classification
     readings:
       - links:
           - text: 17.6
