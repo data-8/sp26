@@ -50,6 +50,7 @@ discussions:
     slug: "disc12"
     date: 2026-04-13
   - title: Intervals for Predictions & kNN Classification
+    slug: "disc13"
     date: 2026-04-20
   - title: Bayes
     date: 2026-04-27
