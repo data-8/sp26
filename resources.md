@@ -19,9 +19,10 @@ All official course materials (including Discussion and Tutoring worksheets) can
 
 These notes serve as supplementary readings and may not necessarily align with lecture and textbook content. These notes aim to serve as a concise overview of course content, which you may find helpful during exam preparation or as a quick refresher.
 
-- [Sampling](https://drive.google.com/file/d/16fIxluoOgr-BfKq_YdUFd3z3zEmwtsRk/view?usp=drive_link){:target="\_blank"}
-- [Variability of Samples](https://drive.google.com/file/d/16H_RaVj-OFZ2XCoZYblb5vul33o0NLLm/view?usp=drive_link){:target="\_blank"}
-- [Confidence Intervals](https://drive.google.com/file/d/1x6CR28ihppaglF8DNxTU4IQwum62lOQ1/view?usp=drive_link){:target="\_blank"}
+- [Sampling](https://drive.google.com/file/d/1ePdQP71awh02QAQ3ETbdONxRmOtpGePx/view?usp=sharing){:target="\_blank"}
+- [Variability of Samples](https://drive.google.com/file/d/1wSHqtfA38MoTzzCua0s8QM6znRQYkqg9/view?usp=sharing){:target="\_blank"}
+- [Confidence Intervals](https://drive.google.com/file/d/1T9mtHMAEOLXAw4jCCG_20nvXs4W-s2FG/view?usp=sharing){:target="\_blank"}
+- [Correlation and Linear Regression](https://drive.google.com/file/d/14RGKjs_82qgV0NNATdWycpM3C_7f5D9g/view?usp=sharing){:target="\_blank"}
 
 
 ## Other Resources
