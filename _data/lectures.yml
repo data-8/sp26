@@ -303,7 +303,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/18/1/more-likely-than-not-binary-classifier/index.html
           - text: 18.2
             url: https://inferentialthinking.com/chapters/18/2/making-decisions/index.html
-  - title: "Case Study: Health"
+  - slug: "38"
+  #- title: "Case Study: Health"
   - title: Conclusion
   - title: RRR Week
     nonumber: true
