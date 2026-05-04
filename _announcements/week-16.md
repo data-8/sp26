@@ -10,7 +10,7 @@ date: 2026-04-26
     * <u>Tuesday</u>, May 5th from 5-7 PM in Wheeler 150
     * <u>Ftiday</u>, May 8th from 5-7 PM in Wheeler 150
 3. **RRR Week OH**
-    * <u>Thursday</u>, May 7th from 12-3 PM in Warrent 101B or online
+    * <u>Thursday</u>, May 7th from 12-3 PM in Warren 101B or online
 4. **[Final Exam Resources & Preparation Tips](https://edstem.org/us/courses/91618/discussion/8010560)**
 5. **Project 02, Homework 10, Lab 09 Score Release [post](https://edstem.org/us/courses/91618/discussion/8024852)**
     * Check that your score looks correct!
