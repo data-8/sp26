@@ -305,7 +305,8 @@ lectures:
             url: https://inferentialthinking.com/chapters/18/2/making-decisions/index.html
   - slug: "38"
   #- title: "Case Study: Health"
-  - title: Conclusion
+  - slug: "39"
+  #- title: Conclusion
   - title: RRR Week
     nonumber: true
   - title: RRR Week
