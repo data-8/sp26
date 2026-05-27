@@ -23,6 +23,7 @@ These notes serve as supplementary readings and may not necessarily align with l
 - [Variability of Samples](https://drive.google.com/file/d/1wSHqtfA38MoTzzCua0s8QM6znRQYkqg9/view?usp=sharing){:target="\_blank"}
 - [Confidence Intervals](https://drive.google.com/file/d/1T9mtHMAEOLXAw4jCCG_20nvXs4W-s2FG/view?usp=sharing){:target="\_blank"}
 - [Correlation and Linear Regression](https://drive.google.com/file/d/14RGKjs_82qgV0NNATdWycpM3C_7f5D9g/view?usp=sharing){:target="\_blank"}
+- [Classification](https://drive.google.com/file/d/1CI5F1c1uaiehiqePY_k9hnS_mfMbBBUh/view?usp=sharing)
 
 
 ## Other Resources
