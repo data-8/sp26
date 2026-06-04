@@ -6,6 +6,10 @@ description: >-
 nav_order: 3
 ---
 
+{: .warning }
+⚠️ This content is archived and retained exclusively for reference. [Find current offerings.](https://data8.org/)
+
+
 # **Syllabus**
 {:.no_toc}
 
