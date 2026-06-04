@@ -6,6 +6,9 @@ description: >-
 nav_order: 5
 ---
 
+{: .warning }
+⚠️ This content is archived and retained exclusively for reference. [Find current offerings.](https://data8.org/)
+
 {:.no_toc}
 
 # **Resources**

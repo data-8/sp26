@@ -6,6 +6,9 @@ description: >-
     Frequently Asked Questions and Debugging Tips
 ---
 
+{: .warning }
+⚠️ This content is archived and retained exclusively for reference. [Find current offerings.](https://data8.org/)
+
 # **Frequently Asked Questions**
 
 <br>

@@ -5,6 +5,9 @@ description: A listing of all the course staff members.
 nav_order: 4
 ---
 
+{: .warning }
+⚠️ This content is archived and retained exclusively for reference. [Find current offerings.](https://data8.org/)
+
 # **Staff**
 
 Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-assistants), [Teaching Assistants](#teaching-assistants), [Tutors](#tutors)

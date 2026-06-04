@@ -7,6 +7,9 @@ published: true
 permalink: /
 ---
 
+{: .warning }
+⚠️ This content is archived and retained exclusively for reference. [Find current offerings.](https://data8.org/)
+
 # **Data 8: Foundations of Data Science**
 
 {: .mb-2 }

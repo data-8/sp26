@@ -6,6 +6,9 @@ description: >-
     Python Reference Guide
 ---
 
+{: .warning }
+⚠️ This content is archived and retained exclusively for reference. [Find current offerings.](https://data8.org/)
+
 # **Detailed Python Reference Sheet**
 
 {:.no_toc}
